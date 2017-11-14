@@ -20,4 +20,4 @@
 ###### GET - http://localhost:8080/books - получить все книги из таблицы
 ###### GET - http://localhost:8080/books/select - получить книги согласно условию
 ###### PUT - http://localhost:8080/books/{title} - изменить данные о книге
-###### DELETE - http://localhost:8080/books/delete{id} - удалить книгу по id
+###### DELETE - http://localhost:8080/books/{id} - удалить книгу по id
